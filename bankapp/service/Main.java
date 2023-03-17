@@ -12,7 +12,7 @@ import gr.aueb.cf.ch18.exercise.service.exceptions.SsnNotValidException;
 public class Main {
 
     public static void main(String[] args) {
-        //Create DTO for account and User
+        ///Create DTO for account and User
         AccountDTO accountDTO = new AccountDTO();
         UserDTO userDTO = new UserDTO();
 
