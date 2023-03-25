@@ -3,9 +3,9 @@
 
 - [Bank App](/bankapp/): 
 
-- [Mobile contacts app](/mobile-contacts-app/): 
+- [Mobile contacts App](/mobile-contacts-app/): 
 
-- [Shapes ap ](/shapes/): 
+- [Shapes App ](/shapes/): 
 
 
 
