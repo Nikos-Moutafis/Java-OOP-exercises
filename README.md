@@ -2,11 +2,11 @@
 
 
 
-- [Bank App](/bankapp/): 
+- [Bank App](/bank_app/): 
 
-- [Mobile contacts App](/mobile-contacts-app/): 
+- [Mobile contacts App](/mobile_contacts_app/): 
 
-- [Shapes App ](/shapes/): 
+- [Shapes App ](/shapes_app/): 
 
 
 
