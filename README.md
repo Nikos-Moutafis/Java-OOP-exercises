@@ -9,7 +9,6 @@
 - [Shapes App ](/shapes/): 
 
 
-#### Bank App : bankapp
-
+####  [Shapes App ](/shapes/): 
 
 
