@@ -18,7 +18,7 @@ import java.util.List;
 public class MobileContactServiceImpl implements IMobileContactService{
 
     //Composition and Forwarding
-    //Forwarding1 when you call dao to do the forwarding
+    //Forwarding when you call dao to do the forwarding
     private final IMobileContactDAO dao;
 
     //Dependency Injection
